@@ -1,0 +1,7 @@
+*.class
+*.log
+.idea/*
+console/
+target/
+*.ipr
+*.iws
